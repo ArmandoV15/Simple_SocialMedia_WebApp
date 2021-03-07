@@ -1,0 +1,41 @@
+html {
+	margin-left: 30%;
+	margin-right: 30%
+}
+
+#form-grid {
+	display: flex;
+	flex-direction: column;
+}
+
+.login-form-field {
+	padding: 10px;
+	margin: 10px;
+}
+
+.post {
+	margin-top: 10px;
+	border: 1px solid black;
+}
+
+.post-text {
+	margin: 0px;
+	padding: 5px;
+	border: 1px solid black;
+}
+
+.post-inner {
+	padding-left: 25px;
+}
+
+.top-marg {
+	margin-top: 10px;
+}
+
+#friend-list {
+	border: 1px solid black;
+	padding: 5px;
+	position: fixed;
+	top: 100px;
+	left: 100px;
+}
